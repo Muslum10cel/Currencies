@@ -11,5 +11,5 @@ package com.requesturl;
  */
 public class RequestUrl {
 
-    public static final String REQUEST_URL = "https://www.doviz.com/api/v1/currencies/all/latest";
+    public static final String REQUEST_URL = "";
 }
